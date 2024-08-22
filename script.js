@@ -40,7 +40,7 @@ document.querySelector('.js-rock-button').addEventListener('click', () => {
 });
 
 document.querySelector('.js-paper-button').addEventListener('click', () => {
-    playGame('papaer');
+    playGame('paper');
 });
 
 document.querySelector('.js-scissor-button').addEventListener('click', () => {
